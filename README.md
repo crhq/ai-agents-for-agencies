@@ -85,6 +85,7 @@ Where agencies list their services or find implementation partners.
 
 ## Guides for agencies
 
+- [White label AI agent platforms for agencies, compared](https://crhq.ai/compare/white-label-ai-agent-platforms) - Side-by-side comparison of chat, voice, workflow and agent harness options for agencies. (CRHQ)
 - [Build an agent once and rent it out](https://crhq.ai/use-cases/rent-out-agents) - Use case: one agent, many clients, a monthly fee. (CRHQ)
 - [White label AI agents under your own brand](https://crhq.ai/white-label) - How a server-per-client white label setup works. (CRHQ)
 
