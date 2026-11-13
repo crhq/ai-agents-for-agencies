@@ -85,6 +85,9 @@ Where agencies list their services or find implementation partners.
 
 ## Guides for agencies
 
+- [AI agent management as a service: how agencies sell it](https://crhq.ai/guides/ai-agent-management-as-a-service) - What clients pay for, what the agency runs, and how agencies price a monthly agent service. (CRHQ)
+- [How to manage AI agents for each client](https://crhq.ai/guides/manage-ai-agents-for-clients) - A setup for running agents for many clients: one server per client, shared skills, roles for client staff. (CRHQ)
+- [Rent out AI agents: build once, rent to many clients](https://crhq.ai/guides/rent-out-ai-agents) - Packaging one agent and running a sealed copy for each client. (CRHQ)
 - [White label AI agent platforms for agencies, compared](https://crhq.ai/compare/white-label-ai-agent-platforms) - Side-by-side comparison of chat, voice, workflow and agent harness options for agencies. (CRHQ)
 - [Build an agent once and rent it out](https://crhq.ai/use-cases/rent-out-agents) - Use case: one agent, many clients, a monthly fee. (CRHQ)
 - [White label AI agents under your own brand](https://crhq.ai/white-label) - How a server-per-client white label setup works. (CRHQ)
