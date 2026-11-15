@@ -79,6 +79,7 @@ Agents that answer and make phone calls.
 
 Where agencies list their services or find implementation partners.
 
+- [CRHQ Partner Program](https://crhq.ai/partners) - CRHQ's program for agencies and consultants who bring CRHQ and Canvas to their clients.
 - [Make Partner Program](https://www.make.com/en/partners) - Make's program and directory for agencies and consultants.
 - [n8n Expert partners](https://n8n.io/experts/) - n8n's partner program and directory of experts.
 - [Zapier Solution Partner Directory](https://zapier.com/partnerdirectory) - Directory of consultants and agencies that build with Zapier.
